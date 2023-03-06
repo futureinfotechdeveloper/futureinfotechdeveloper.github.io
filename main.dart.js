@@ -44681,7 +44681,7 @@ p.vu(2,o,q)
 p.vw(3,o,q)}return A.R(null,r)}})
 return A.S($async$wE,r)},
 I(a){var s=null
-return new A.AG(new A.zC(s),"Flutter Demo",A.ak8(s,s,B.bV,s),!1,s)}}
+return new A.AG(new A.zC(s),"GOGREEN",A.ak8(s,s,B.bV,s),!1,s)}}
 A.abi.prototype={
 yZ(){var s=0,r=A.T(t.H),q=this
 var $async$yZ=A.U(function(a,b){if(a===1)return A.Q(b,r)
